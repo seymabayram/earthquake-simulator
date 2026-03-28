@@ -28,11 +28,17 @@ The goal of this project is to redesign and repurpose an existing simulation sys
 
 ---
 
-## 🧠 Technologies Used
+## 🧠 Technologies Used & Running Locally
 
-- Unity (3D Game Engine)
-- C#
-- Physics Engine (Rigidbody, Collisions)
+- Three.js / WebGL
+- HTML, JavaScript, CSS
+- Vite
+
+### How to run locally:
+
+```shell
+npx vite --host
+```
 
 ---
 
